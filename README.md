@@ -49,6 +49,6 @@ cacheSolve <- function(x, ...) {
   ## Return the newly calculate inverse of the matrix
   m
 }
-Status API Training Shop Blog About Pricing
+ 
  
  
